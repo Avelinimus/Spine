@@ -1,0 +1,601 @@
+
+ready to collect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fed and producing/Grass
+  rotate: true
+  xy: 390, 173
+  size: 511, 256
+  orig: 511, 256
+  offset: 0, 0
+  index: -1
+fed and producing/Point
+  rotate: true
+  xy: 330, 29
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+hungry/Point
+  rotate: true
+  xy: 330, 29
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+ready to collect/Point
+  rotate: true
+  xy: 330, 29
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+fed and producing/ball L
+  rotate: true
+  xy: 1020, 177
+  size: 136, 137
+  orig: 136, 139
+  offset: 0, 1
+  index: -1
+fed and producing/ball R
+  rotate: false
+  xy: 1374, 315
+  size: 109, 111
+  orig: 111, 113
+  offset: 1, 1
+  index: -1
+fed and producing/body
+  rotate: true
+  xy: 2, 686
+  size: 631, 629
+  orig: 631, 629
+  offset: 0, 0
+  index: -1
+fed and producing/ear Left
+  rotate: false
+  xy: 1551, 317
+  size: 215, 109
+  orig: 215, 109
+  offset: 0, 0
+  index: -1
+fed and producing/ear Rght
+  rotate: true
+  xy: 1749, 1436
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1
+fed and producing/face
+  rotate: true
+  xy: 633, 894
+  size: 424, 382
+  orig: 424, 382
+  offset: 0, 0
+  index: -1
+fed and producing/horn
+  rotate: false
+  xy: 965, 690
+  size: 278, 202
+  orig: 280, 203
+  offset: 1, 1
+  index: -1
+fed and producing/iris L
+  rotate: false
+  xy: 1973, 1206
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+fed and producing/iris R
+  rotate: true
+  xy: 1017, 894
+  size: 58, 57
+  orig: 60, 59
+  offset: 1, 1
+  index: -1
+fed and producing/knee bck L
+  rotate: true
+  xy: 2, 4
+  size: 52, 121
+  orig: 52, 122
+  offset: 0, 0
+  index: -1
+fed and producing/knee bck R
+  rotate: true
+  xy: 237, 6
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+fed and producing/knee frnt L
+  rotate: false
+  xy: 1485, 315
+  size: 64, 111
+  orig: 64, 111
+  offset: 0, 0
+  index: -1
+fed and producing/knee frnt R
+  rotate: false
+  xy: 811, 179
+  size: 64, 116
+  orig: 64, 116
+  offset: 0, 0
+  index: -1
+fed and producing/lips close
+  rotate: true
+  xy: 1245, 708
+  size: 244, 142
+  orig: 244, 142
+  offset: 0, 0
+  index: -1
+fed and producing/lips open
+  rotate: true
+  xy: 1391, 1345
+  size: 196, 191
+  orig: 196, 191
+  offset: 0, 0
+  index: -1
+fed and producing/milk 01
+  rotate: true
+  xy: 1424, 1061
+  size: 183, 221
+  orig: 183, 221
+  offset: 0, 0
+  index: -1
+fed and producing/mouth
+  rotate: false
+  xy: 1015, 315
+  size: 357, 373
+  orig: 357, 374
+  offset: 0, 1
+  index: -1
+fed and producing/tail down
+  rotate: true
+  xy: 1566, 1585
+  size: 230, 197
+  orig: 230, 197
+  offset: 0, 0
+  index: -1
+fed and producing/tail down fur
+  rotate: false
+  xy: 1358, 1895
+  size: 64, 151
+  orig: 64, 151
+  offset: 0, 0
+  index: -1
+fed and producing/tigh bck L
+  rotate: true
+  xy: 390, 4
+  size: 167, 230
+  orig: 167, 230
+  offset: 0, 0
+  index: -1
+fed and producing/tigh bck R
+  rotate: true
+  xy: 1371, 960
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+fed and producing/tigh frnt L
+  rotate: true
+  xy: 764, 2
+  size: 173, 281
+  orig: 173, 281
+  offset: 0, 0
+  index: -1
+fed and producing/tigh frnt R
+  rotate: false
+  xy: 1694, 6
+  size: 124, 176
+  orig: 124, 176
+  offset: 0, 0
+  index: -1
+fed and producing/toe bck L
+  rotate: true
+  xy: 1605, 1246
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+fed and producing/toe bck R
+  rotate: true
+  xy: 1497, 1921
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+fed and producing/toe frnt L
+  rotate: true
+  xy: 1424, 1265
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+fed and producing/toe frnt R
+  rotate: true
+  xy: 1881, 1193
+  size: 76, 78
+  orig: 77, 78
+  offset: 1, 0
+  index: -1
+hungry/Lid L bttm
+  rotate: false
+  xy: 1424, 1984
+  size: 139, 62
+  orig: 139, 62
+  offset: 0, 0
+  index: -1
+hungry/Lid L top
+  rotate: false
+  xy: 1605, 1510
+  size: 142, 73
+  orig: 144, 74
+  offset: 1, 1
+  index: -1
+hungry/Lid R Top
+  rotate: true
+  xy: 960, 183
+  size: 112, 58
+  orig: 114, 58
+  offset: 1, 0
+  index: -1
+hungry/Lid R bttm
+  rotate: false
+  xy: 125, 6
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+hungry/ball L
+  rotate: false
+  xy: 1159, 177
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+hungry/ball R
+  rotate: true
+  xy: 1768, 1543
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+hungry/body
+  rotate: true
+  xy: 2, 58
+  size: 626, 386
+  orig: 626, 386
+  offset: 0, 0
+  index: -1
+hungry/ear L
+  rotate: false
+  xy: 1881, 1633
+  size: 156, 127
+  orig: 156, 127
+  offset: 0, 0
+  index: -1
+hungry/ear R
+  rotate: false
+  xy: 1391, 1544
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+hungry/face
+  rotate: false
+  xy: 595, 1320
+  size: 359, 299
+  orig: 359, 299
+  offset: 0, 0
+  index: -1
+hungry/horn
+  rotate: false
+  xy: 1607, 184
+  size: 272, 131
+  orig: 273, 131
+  offset: 0, 0
+  index: -1
+hungry/iris L
+  rotate: false
+  xy: 1961, 1135
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+hungry/iris R
+  rotate: false
+  xy: 1134, 897
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+hungry/knee bck L
+  rotate: true
+  xy: 1881, 1441
+  size: 190, 141
+  orig: 190, 141
+  offset: 0, 0
+  index: -1
+hungry/knee frnt L
+  rotate: false
+  xy: 648, 177
+  size: 161, 118
+  orig: 162, 118
+  offset: 0, 0
+  index: -1
+hungry/lips close
+  rotate: false
+  xy: 1768, 1986
+  size: 274, 60
+  orig: 274, 60
+  offset: 0, 0
+  index: -1
+hungry/milk
+  rotate: true
+  xy: 1278, 1060
+  size: 279, 144
+  orig: 279, 144
+  offset: 0, 0
+  index: -1
+hungry/mouth
+  rotate: true
+  xy: 1017, 954
+  size: 365, 259
+  orig: 365, 259
+  offset: 0, 0
+  index: -1
+hungry/tail down
+  rotate: true
+  xy: 1566, 1817
+  size: 229, 200
+  orig: 229, 200
+  offset: 0, 0
+  index: -1
+hungry/tail fur
+  rotate: false
+  xy: 1512, 961
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+hungry/tigh bck L
+  rotate: true
+  xy: 1155, 1341
+  size: 279, 234
+  orig: 279, 242
+  offset: 0, 0
+  index: -1
+hungry/tigh bck R
+  rotate: true
+  xy: 1531, 181
+  size: 132, 74
+  orig: 132, 74
+  offset: 0, 0
+  index: -1
+hungry/tigh frnt L
+  rotate: true
+  xy: 1389, 720
+  size: 238, 175
+  orig: 239, 176
+  offset: 0, 0
+  index: -1
+hungry/toe bck L
+  rotate: false
+  xy: 1512, 1246
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+ready to collect/toe bck L
+  rotate: false
+  xy: 1512, 1246
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+hungry/toe frnt L
+  rotate: false
+  xy: 1609, 962
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+ready to collect/Milk_G
+  rotate: true
+  xy: 1460, 19
+  size: 157, 232
+  orig: 157, 232
+  offset: 0, 0
+  index: -1
+ready to collect/ball L
+  rotate: true
+  xy: 1294, 178
+  size: 135, 137
+  orig: 136, 138
+  offset: 1, 1
+  index: -1
+ready to collect/ball R
+  rotate: false
+  xy: 1768, 1651
+  size: 109, 109
+  orig: 110, 111
+  offset: 1, 1
+  index: -1
+ready to collect/body
+  rotate: false
+  xy: 2, 1319
+  size: 591, 727
+  orig: 591, 727
+  offset: 0, 0
+  index: -1
+ready to collect/ear Left
+  rotate: false
+  xy: 1047, 12
+  size: 174, 163
+  orig: 174, 163
+  offset: 0, 0
+  index: -1
+ready to collect/ear Rght
+  rotate: false
+  xy: 1433, 178
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+ready to collect/face
+  rotate: true
+  xy: 981, 1622
+  size: 424, 375
+  orig: 424, 375
+  offset: 0, 0
+  index: -1
+ready to collect/horn
+  rotate: false
+  xy: 1768, 1762
+  size: 273, 222
+  orig: 273, 224
+  offset: 0, 1
+  index: -1
+ready to collect/iris L
+  rotate: false
+  xy: 1973, 1278
+  size: 71, 69
+  orig: 71, 71
+  offset: 0, 1
+  index: -1
+ready to collect/iris R
+  rotate: false
+  xy: 1076, 896
+  size: 56, 56
+  orig: 60, 58
+  offset: 2, 0
+  index: -1
+ready to collect/knee bck L
+  rotate: true
+  xy: 1605, 1319
+  size: 189, 141
+  orig: 190, 141
+  offset: 0, 0
+  index: -1
+ready to collect/knee bck R
+  rotate: true
+  xy: 858, 689
+  size: 203, 105
+  orig: 204, 107
+  offset: 0, 1
+  index: -1
+ready to collect/knee frnt L
+  rotate: false
+  xy: 1278, 954
+  size: 91, 104
+  orig: 91, 106
+  offset: 0, 1
+  index: -1
+ready to collect/knee frnt R
+  rotate: true
+  xy: 877, 183
+  size: 112, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+ready to collect/lips close
+  rotate: false
+  xy: 1223, 15
+  size: 235, 160
+  orig: 235, 161
+  offset: 0, 0
+  index: -1
+ready to collect/lips open
+  rotate: false
+  xy: 1566, 764
+  size: 186, 195
+  orig: 186, 196
+  offset: 0, 1
+  index: -1
+ready to collect/milk
+  rotate: true
+  xy: 595, 1621
+  size: 425, 384
+  orig: 425, 384
+  offset: 0, 0
+  index: -1
+ready to collect/mouth
+  rotate: false
+  xy: 648, 297
+  size: 365, 387
+  orig: 365, 387
+  offset: 0, 0
+  index: -1
+ready to collect/tail
+  rotate: true
+  xy: 633, 686
+  size: 206, 223
+  orig: 206, 223
+  offset: 0, 0
+  index: -1
+ready to collect/tail fur
+  rotate: false
+  xy: 1768, 1341
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+ready to collect/tangue
+  rotate: false
+  xy: 1820, 41
+  size: 214, 141
+  orig: 214, 141
+  offset: 0, 0
+  index: -1
+ready to collect/tigh bck L
+  rotate: true
+  xy: 1374, 428
+  size: 278, 229
+  orig: 279, 242
+  offset: 0, 0
+  index: -1
+ready to collect/tigh bck R
+  rotate: true
+  xy: 956, 1321
+  size: 298, 197
+  orig: 300, 200
+  offset: 1, 0
+  index: -1
+ready to collect/tigh frnt L
+  rotate: false
+  xy: 1358, 1624
+  size: 202, 269
+  orig: 203, 272
+  offset: 0, 1
+  index: -1
+ready to collect/tigh frnt R
+  rotate: true
+  xy: 622, 6
+  size: 165, 140
+  orig: 167, 141
+  offset: 1, 0
+  index: -1
+ready to collect/toe bck R
+  rotate: true
+  xy: 1881, 1349
+  size: 90, 96
+  orig: 90, 97
+  offset: 0, 1
+  index: -1
+ready to collect/toe frnt L
+  rotate: false
+  xy: 1881, 1271
+  size: 90, 76
+  orig: 90, 78
+  offset: 0, 1
+  index: -1
+ready to collect/toe frnt R
+  rotate: true
+  xy: 1424, 1900
+  size: 82, 71
+  orig: 83, 73
+  offset: 0, 1
+  index: -1
